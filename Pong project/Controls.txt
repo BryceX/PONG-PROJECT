@@ -1,0 +1,14 @@
+Player 1 controls:
+Q - Up
+A - Down
+
+Player 2 controls:
+O - Up
+L - Down
+
+V during gameplay for player 1 to instantly win
+B during gameplay for player 2 to instantly win
+
+T to start game at main menu
+R to exit
+E to see high scores
